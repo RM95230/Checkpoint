@@ -167,5 +167,7 @@ main{
     opacity: 0px;
     align-items: center;
     justify-content: center;
+    margin-left: auto;
+    margin-right: auto; 
 
 }
